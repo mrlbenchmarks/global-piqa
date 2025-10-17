@@ -1,0 +1,117 @@
+language,language_name,model,acc
+acm_arab,Iraqi Arabic,gpt-5,0.97
+acq_arab,Yemeni Arabic,gpt-5,0.95
+aeb_arab,Tunisian Arabic,gemini-pro,0.96
+afb_arab,Gulf Arabic,sonnet-4-5,0.9
+als_latn,Northern Tosk Albanian,gemini-pro,0.97
+amh_ethi,Amharic,gemini-pro,0.89
+apc_arab_jord,Levantine Arabic,gpt-5,0.97
+apc_arab_leba,Levantine Arabic,gemini-pro,0.95
+apc_arab_pale,Levantine Arabic,gpt-5,0.93
+apc_arab_syri,Levantine Arabic,gemini-pro,0.91
+arb_arab,Standard Arabic,gpt-5,0.95
+arq_arab,Algerian Arabic,gemini-pro,0.95
+ars_arab,Najdi Arabic,gemini-pro,0.9
+ary_arab,Moroccan Arabic,gemini-pro,0.94
+arz_arab,Egyptian Arabic,"gemini-pro, gpt-5",0.95
+asm_beng,Assamese,"gemini-pro, google/gemma-3-27b-it, gpt-5",0.95
+azj_latn,North Azerbaijani,flash,0.96
+bam_latn,Bambara,gemini-pro,0.81
+bel_cyrl,Belarusian,sonnet-4-5,0.99
+ben_beng,Bengali,gpt-5,0.96
+ben_latn,Bengali,"flash, sonnet-4-5",0.96
+bho_deva,Bhojpuri,"gpt-5-mini, sonnet-4-5",0.92
+bos_latn,Bosnian,"Qwen/Qwen2.5-72B-Instruct, gemini-pro, google/gemma-2-27b-it, gpt-5",1.0
+bsk_arab,Burushaski,microsoft/phi-4,0.66
+bul_cyrl,Bulgarian,"Qwen/Qwen2.5-32B-Instruct, gpt-5, gpt-5-mini, sonnet-4-5",0.97
+cat_latn,Catalan,gemini-pro,1.0
+ces_latn,Czech,gemini-pro,0.97
+ckb_arab,Central Kurdish,gemini-pro,0.89
+ckm_latn,Chakavski,gemini-pro,0.74
+cmn_hans,Mandarin Chinese,flash,0.9
+cmn_hant,Mandarin Chinese,"gemini-pro, gpt-5",0.9
+deu_latn,German,"gemini-pro, gpt-5",0.98
+dhd_deva,Dhundari,gpt-5,0.92
+ekp_latn,Ekpeye,meta-llama/Llama-3.2-1B-Instruct,0.59
+ell_grek,Greek,gemini-pro,0.89
+eng_latn,English,sonnet-4-5,0.97
+est_latn,Estonian,gpt-5,0.97
+fao_latn,Faroese,gemini-pro,0.96
+fin_latn,Finnish,gpt-5,0.96
+fra_latn_cana,French,sonnet-4-5,0.99
+fra_latn_fran,French,"gemini-pro, gpt-5, sonnet-4-5",0.96
+glg_latn,Galician,gemini-pro,0.99
+guj_gujr,Gujarati,gpt-5-mini,0.97
+hau_latn,Hausa,gpt-5,0.97
+haw_latn,Hawaiian,gemini-pro,0.95
+heb_hebr,Hebrew,"flash, gemini-pro",0.95
+hin_deva,Hindi,gpt-5,0.96
+hrv_latn,Croatian,"flash, gemini-pro, gpt-5, sonnet-4-5",1.0
+hun_latn,Hungarian,flash,0.98
+hye_armn,Eastern Armenian,gemini-pro,0.96
+ibo_latn,Igbo,sonnet-4-5,0.89
+idu_latn,Idoma,aisingapore/Gemma-SEA-LION-v3-9B-IT,0.71
+ind_latn,Indonesian,Qwen/Qwen2.5-72B-Instruct,0.98
+isl_latn,Icelandic,gemini-pro,0.93
+iso_latn,Isoko,"Qwen/Qwen2.5-3B, flash, gemini-pro",0.77
+ita_latn,Italian,sonnet-4-5,0.97
+jav_latn,Javanese,sonnet-4-5,0.94
+jpn_jpan,Japanese,flash,0.97
+kan_knda,Kannada,"gemini-pro, gpt-5, openai/gpt-oss-20b",0.94
+kat_geor,Georgian,gemini-pro,0.94
+kaz_cyrl,Kazakh,gpt-5,0.92
+kin_latn,Kinyarwanda,gemini-pro,0.94
+kir_cyrl,Kirghiz,"flash, sonnet-4-5",0.99
+kor_hang,Korean,"gemini-pro, gpt-5",0.92
+lin_latn,Lingala,gemini-pro,0.68
+lit_latn,Lithuanian,sonnet-4-5,0.99
+luo_latn,Luo,gemini-pro,0.9
+mal_mlym,Malayalam,gemini-pro,0.86
+mar_deva,Marathi,flash,0.96
+mkd_cyrl,Macedonian,"flash, gemini-pro, gpt-5",1.0
+mni_beng,Manipuri,gemini-pro,0.88
+mni_mtei,Manipuri,google/gemma-3-27b-it,0.63
+nag_latn,Naga Pidgin,sonnet-4-5,0.88
+nld_latn,Dutch,"flash, gemini-pro",0.91
+nno_latn,Norwegian Nynorsk,gpt-5-mini,0.95
+nob_latn,Norwegian Bokmål,"flash, gemini-pro",0.94
+npi_deva,Nepali,sonnet-4-5,1.0
+pan_guru,Eastern Panjabi,"flash, gpt-5",0.95
+pcm_latn,Nigerian Pidgin,gpt-5,0.97
+pes_arab,Western Farsi,gpt-5,0.95
+pol_latn,Polish,gemini-pro,1.0
+por_latn_braz,Portuguese,gpt-5,0.98
+por_latn_port,Portuguese,"gpt-5, gpt-5-mini, gpt-5-nano",0.95
+ron_latn,Romanian,"Qwen/Qwen3-14B, gpt-5, gpt-5-mini, meta-llama/Llama-3.1-70B-Instruct, sarvamai/sarvam-m, sonnet-4-5",1.0
+rus_cyrl,Russian,gpt-5,0.96
+rwr_deva,Marwari,flash,0.96
+sin_sinh,Sinhala,gemini-pro,0.9
+slk_latn,Slovak,"gemini-pro, gpt-5",1.0
+slk_latn_sari,Slovak,flash,0.94
+slv_latn,Slovenian,sonnet-4-5,0.99
+slv_latn_cerk,Slovenian,gemini-pro,0.87
+snd_arab,Sindhi,"flash, flash-lite, gemini-pro, google/gemma-3-12b-it, google/gemma-3-27b-it, gpt-5, gpt-5-mini, gpt-5-nano, meta-llama/Llama-3.1-70B-Instruct, openai/gpt-oss-20b, sonnet-4-5",1.0
+snd_deva,Sindhi,gemini-pro,0.95
+spa_latn_mexi,Spanish,"Qwen/Qwen2.5-72B-Instruct, gemini-pro",0.99
+spa_latn_peru,Spanish,"Qwen/Qwen2.5-72B-Instruct, Qwen/Qwen3-14B, google/gemma-3-12b-it, gpt-5-nano, microsoft/Phi-3-medium-4k-instruct",0.99
+spa_latn_spai,Spanish,"gemini-pro, gpt-5",0.98
+srp_cyrl,Serbian,gpt-5-mini,0.99
+srp_latn,Serbian,"gpt-5, gpt-5-mini",0.98
+swe_latn,Swedish,"gemini-pro, gpt-5",0.99
+swh_latn,Swahili,"gpt-5, meta-llama/Llama-3.1-70B-Instruct",0.9
+tam_taml,Tamil,gemini-pro,0.9
+tel_telu,Telugu,"gemini-pro, gpt-5",0.94
+tgl_latn,Tagalog,gpt-5,0.96
+tha_thai,Thai,flash,0.94
+tur_latn,Turkish,gpt-5,0.96
+uig_arab,Uighur,gemini-pro,0.94
+ukr_cyrl,Ukrainian,gpt-5,0.97
+urd_arab,Urdu,"gemini-pro, google/gemma-3-27b-it",0.98
+urd_latn,Urdu,"gemini-pro, gpt-5",1.0
+urh_latn,Urhobo,google/gemma-3-12b-it,0.64
+uzn_latn,Northern Uzbek,gpt-5-mini,0.93
+vie_latn,Vietnamese,gpt-5,0.93
+yor_latn,Yoruba,gemini-pro,0.87
+yue_hant,Yue Chinese,sonnet-4-5,0.94
+zsm_latn,Malay,sonnet-4-5,0.97
+zul_latn,Zulu,gpt-5,0.91
