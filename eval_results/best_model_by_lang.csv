@@ -14,11 +14,11 @@ arq_arab,Algerian Arabic,gemini-pro,0.95
 ars_arab,Najdi Arabic,gemini-pro,0.9
 ary_arab,Moroccan Arabic,gemini-pro,0.94
 arz_arab,Egyptian Arabic,"gemini-pro, gpt-5",0.95
-asm_beng,Assamese,"gemini-pro, google/gemma-3-27b-it, gpt-5",0.95
+asm_beng,Assamese,sonnet-4-5,0.98
 azj_latn,North Azerbaijani,flash,0.96
 bam_latn,Bambara,gemini-pro,0.81
 bel_cyrl,Belarusian,sonnet-4-5,0.99
-ben_beng,Bengali,gpt-5,0.96
+ben_beng,Bengali,"gpt-5, sonnet-4-5",0.96
 ben_latn,Bengali,"flash, sonnet-4-5",0.96
 bho_deva,Bhojpuri,"gpt-5-mini, sonnet-4-5",0.92
 bos_latn,Bosnian,"Qwen/Qwen2.5-72B-Instruct, deepseek-ai/DeepSeek-R1-Distill-Qwen-32B, gemini-pro, google/gemma-2-27b-it, gpt-5",1.0
@@ -28,14 +28,14 @@ cat_latn,Catalan,gemini-pro,1.0
 ces_latn,Czech,gemini-pro,0.97
 ckb_arab,Central Kurdish,gemini-pro,0.89
 ckm_latn,Chakavski,gemini-pro,0.74
-cmn_hans,Mandarin Chinese,flash,0.9
+cmn_hans,Mandarin Chinese,"flash, sonnet-4-5",0.9
 cmn_hant,Mandarin Chinese,"gemini-pro, gpt-5",0.9
 deu_latn,German,"gemini-pro, gpt-5",0.98
 dhd_deva,Dhundari,gpt-5,0.92
-ekp_latn,Ekpeye,meta-llama/Llama-3.2-1B-Instruct,0.59
+ekk_latn,Estonian,gpt-5,0.97
+ekp_latn,Ekpeye,gpt-5-mini,0.6
 ell_grek,Greek,gemini-pro,0.89
 eng_latn,English,sonnet-4-5,0.97
-est_latn,Estonian,gpt-5,0.97
 fao_latn,Faroese,gemini-pro,0.96
 fin_latn,Finnish,gpt-5,0.96
 fra_latn_cana,French,sonnet-4-5,0.99
@@ -45,7 +45,7 @@ guj_gujr,Gujarati,gpt-5-mini,0.97
 hau_latn,Hausa,gpt-5,0.97
 haw_latn,Hawaiian,gemini-pro,0.95
 heb_hebr,Hebrew,"flash, gemini-pro",0.95
-hin_deva,Hindi,gpt-5,0.96
+hin_deva,Hindi,"gpt-5, sonnet-4-5",0.96
 hrv_latn,Croatian,"flash, gemini-pro, gpt-5, sonnet-4-5",1.0
 hun_latn,Hungarian,flash,0.98
 hye_armn,Eastern Armenian,gemini-pro,0.96
@@ -57,7 +57,7 @@ iso_latn,Isoko,"Qwen/Qwen2.5-3B, flash, gemini-pro",0.77
 ita_latn,Italian,sonnet-4-5,0.97
 jav_latn,Javanese,sonnet-4-5,0.94
 jpn_jpan,Japanese,flash,0.97
-kan_knda,Kannada,"gemini-pro, gpt-5, openai/gpt-oss-20b",0.94
+kan_knda,Kannada,sonnet-4-5,0.95
 kat_geor,Georgian,gemini-pro,0.94
 kaz_cyrl,Kazakh,gpt-5,0.92
 kin_latn,Kinyarwanda,gemini-pro,0.94
@@ -76,7 +76,7 @@ nld_latn,Dutch,"flash, gemini-pro",0.91
 nno_latn,Norwegian Nynorsk,gpt-5-mini,0.95
 nob_latn,Norwegian Bokmål,"flash, gemini-pro",0.94
 npi_deva,Nepali,sonnet-4-5,1.0
-pan_guru,Eastern Panjabi,"flash, gpt-5",0.95
+pan_guru,Eastern Panjabi,"flash, gpt-5, sonnet-4-5",0.95
 pcm_latn,Nigerian Pidgin,gpt-5,0.97
 pes_arab,Western Farsi,gpt-5,0.95
 pol_latn,Polish,gemini-pro,1.0
@@ -100,7 +100,7 @@ srp_latn,Serbian,"gpt-5, gpt-5-mini",0.98
 swe_latn,Swedish,"gemini-pro, gpt-5",0.99
 swh_latn,Swahili,"gpt-5, meta-llama/Llama-3.1-70B-Instruct",0.9
 tam_taml,Tamil,gemini-pro,0.9
-tel_telu,Telugu,"gemini-pro, gpt-5",0.94
+tel_telu,Telugu,flash-lite,0.95
 tgl_latn,Tagalog,gpt-5,0.96
 tha_thai,Thai,flash,0.94
 tur_latn,Turkish,gpt-5,0.96
