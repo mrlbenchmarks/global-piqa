@@ -27,6 +27,7 @@ Global PIQA is intended for LLM evaluation only.
 ## This repository
 
 This repository contains supplementary files for the Global PIQA dataset, including the original instructions for authors, dataset descriptions from individual groups, and eval results on existing language models.
+To use the dataset itself, find it on Hugging Face [here](https://huggingface.co/datasets/mrlbenchmarks/global-piqa-nonparallel)!
 
 ## Citation
 ```
